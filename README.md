@@ -18,6 +18,10 @@
 
 
 
+### Vue相关前端学习资料整理
+
+1. [vue开发看这篇文章就够了](https://segmentfault.com/a/1190000012692321)
+
 ### 不错的前端博客
 
 1. https://hamger.github.io/
