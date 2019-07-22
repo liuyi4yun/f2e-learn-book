@@ -21,7 +21,12 @@
 ### Vue相关前端学习资料整理
 
 1. [vue开发看这篇文章就够了](https://segmentfault.com/a/1190000012692321)
+2. [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+3. [手摸手，带你用vue撸后台](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
+4. [es6常用的语法](https://blog.csdn.net/itzhongzi/article/details/73330681)
+5. [开源的中后台 Vue UI 脚手架 Ant Design Pro](https://sendya.me/ant-design-of-vue-pro/)
 
 ### 不错的前端博客
 
 1. https://hamger.github.io/
+
